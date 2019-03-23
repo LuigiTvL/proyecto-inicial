@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 Actualizamos el archivo para la clase GitHub
 
 ## Terminando clase
-Aprendimos a usar Git y Github
+Aprendimos a usar Git y Github 
